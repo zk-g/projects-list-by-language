@@ -1,4 +1,4 @@
-# projects-list-by-language
+# Projects list by language
 📝 List of the projects I made sorted by language
 <br /><br />
 #### Assembly
