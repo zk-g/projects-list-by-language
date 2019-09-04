@@ -24,11 +24,10 @@
 #### Javascript
 -
 
-###### Vue.js
--
 <details>
 <summary>JS Frameworks</summary>
-
+###### Vue.js
+-
 ###### React.js
 -
 
