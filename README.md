@@ -32,10 +32,10 @@
 
 ##### React.js
 -
+</details>
 
 #### Python
 -
-</details>
 
 #### SIS
 - [SIS-Univr](https://github.com/zk-g/univr-sis)
