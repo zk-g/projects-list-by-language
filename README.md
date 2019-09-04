@@ -21,10 +21,13 @@
 #### Javascript
 -
 
-##### Vue.js
+###### Vue.js
 -
 
-##### React.js
+###### React.js
+-
+
+#### Python
 -
 
 #### SIS
