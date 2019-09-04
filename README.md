@@ -26,12 +26,15 @@
 
 ###### Vue.js
 -
+<details>
+<summary>JS Frameworks</summary>
 
 ###### React.js
 -
 
 #### Python
 -
+</details>
 
 #### SIS
 - [SIS-Univr](https://github.com/zk-g/univr-sis)
