@@ -26,9 +26,11 @@
 
 <details>
 <summary>JS Frameworks</summary>
-###### Vue.js
+
+##### Vue.js
 -
-###### React.js
+
+##### React.js
 -
 
 #### Python
