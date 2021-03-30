@@ -15,7 +15,7 @@
 - [Cyberphysics-Univr](https://github.com/zk-g/univr-cyberphysics)
 - [Computer graphics-Univr](https://github.com/zk-g/univr-computer-graphic)
 
-#### "HTML"
+#### HTML
 - [My website (:](https://zank.it)
 
 #### Java
